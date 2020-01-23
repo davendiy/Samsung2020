@@ -6,6 +6,9 @@ __pycache__/
 # numpy files (in order to avoid the dataset)
 *.npy
 
+# for samsung branch
+2020-knu-sc/
+
 # C extensions
 *.so
 
