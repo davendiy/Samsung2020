@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# numpy files (in order to avoid the dataset)
+*.npy
+
 # C extensions
 *.so
 
